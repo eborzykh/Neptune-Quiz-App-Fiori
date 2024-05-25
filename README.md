@@ -11,7 +11,7 @@ Following key steps below:
 - Minimum SAPUI5 Version: `http://[host]:[port]/sap/public/bc/ui5_ui5/`
 
 The SAP Fiori application is ready for preview:
-
+![](https://github.com/eborzykh/Neptune-Quiz-App-Fiori/blob/main/images/10_Fiori_Page_First.png)
 
 > [!NOTE]
 > The data structure in Neptune Quiz App has 4 levels: `Quiz`, `Parts` (optional level), `Questions` and `Variants`.
